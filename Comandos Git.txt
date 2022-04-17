@@ -1,0 +1,15 @@
+Git
+
+-openssl sha1 + Nome do arquivo (Gera código do arquivo)
+- Seta pra cima (Navega pelo histórico de códigos)
+
+         commit
+         /    \ 
+     tree      tree
+    /    \     /   \ 
+blob   blob   blob blob
+ |       |       |     \
+arquivo arquivo arquivo arquivo
+
+-ls (Mostra o que tem na pasta)
+--a (Mostra arquivos ocultos)

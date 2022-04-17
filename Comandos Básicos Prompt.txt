@@ -1,0 +1,11 @@
+Windows
+
+-cd (Escolher pasta)
+-cd .. (Sair da Pasta)
+-cd + Letra inicial da pasta + Tab (Escolher pasta)
+-cls (Limpar Prompt)
+-dir + Nome da pasta (Ver itens dentro da pasta)
+-dir (Ver todas as pastas)
+-mkdir (Cria pasta) 
+-del (Deleta intens dentro da pasta)
+-rmdir (Deleta Pasta)
